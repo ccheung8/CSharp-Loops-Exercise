@@ -1,0 +1,14 @@
+C:\Users\drago\source\repos\loopsExercise\bin\Debug\net9.0\loopsExercise.exe
+C:\Users\drago\source\repos\loopsExercise\bin\Debug\net9.0\loopsExercise.deps.json
+C:\Users\drago\source\repos\loopsExercise\bin\Debug\net9.0\loopsExercise.runtimeconfig.json
+C:\Users\drago\source\repos\loopsExercise\bin\Debug\net9.0\loopsExercise.dll
+C:\Users\drago\source\repos\loopsExercise\bin\Debug\net9.0\loopsExercise.pdb
+C:\Users\drago\source\repos\loopsExercise\obj\Debug\net9.0\loopsExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drago\source\repos\loopsExercise\obj\Debug\net9.0\loopsExercise.AssemblyInfoInputs.cache
+C:\Users\drago\source\repos\loopsExercise\obj\Debug\net9.0\loopsExercise.AssemblyInfo.cs
+C:\Users\drago\source\repos\loopsExercise\obj\Debug\net9.0\loopsExercise.csproj.CoreCompileInputs.cache
+C:\Users\drago\source\repos\loopsExercise\obj\Debug\net9.0\loopsExercise.dll
+C:\Users\drago\source\repos\loopsExercise\obj\Debug\net9.0\refint\loopsExercise.dll
+C:\Users\drago\source\repos\loopsExercise\obj\Debug\net9.0\loopsExercise.pdb
+C:\Users\drago\source\repos\loopsExercise\obj\Debug\net9.0\loopsExercise.genruntimeconfig.cache
+C:\Users\drago\source\repos\loopsExercise\obj\Debug\net9.0\ref\loopsExercise.dll
